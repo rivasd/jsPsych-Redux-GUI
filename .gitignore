@@ -39,3 +39,5 @@ jspm_packages
 # Bundle files
 *bundle.js 
 *bundle.js.map
+/.settings/
+/.project
